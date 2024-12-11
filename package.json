@@ -1,0 +1,8 @@
+{
+  "name": "conventionalcommit-test",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "conventional-commits-parser": "^6.0.0"
+  }
+}
